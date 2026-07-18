@@ -17,11 +17,7 @@ I'm a final year B.Tech Computer Science student passionate about software devel
 ![](https://streak-stats.demolab.com/?user=avishitripathi&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=avishitripathi&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+![snake gif](https://github.com/avishitripathi/avishitripathi/blob/output/github-snake-dark.svg)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/avishitripathi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/avishi-tripathi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/TripathiAv41623) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:avishitripathi24@gmail.com) 
@@ -40,4 +36,4 @@ I'm a final year B.Tech Computer Science student passionate about software devel
 ---
 [![](https://komarev.com/ghpvc/?username=avishitripathi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
